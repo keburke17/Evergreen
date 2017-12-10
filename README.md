@@ -4,7 +4,7 @@ Evergreen dev project
 Scope
 * Develop a course/pathway marketplace
 * Feed with Evergreen content (network generated and seed) and API sources
-* allow students to enroll and complete courses 
+* allow students to enroll and complete courses
 
 
 Use cases
@@ -68,3 +68,4 @@ After the MVP
 API searches
 * Only for 'course' search to begin with
 ** Must list on Evergreen to be included in pathways? Or eventual inclusion?
+* Use https://api-explorer.khanacademy.org/group/api/v1/topic ? 

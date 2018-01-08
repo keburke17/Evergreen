@@ -5,6 +5,7 @@ Scope
 * Develop a course/pathway marketplace
 * Feed with Evergreen content (network generated and seed) and API sources
 * allow students to enroll and complete courses
+* facilitate provider course manager/admin 
 
 
 Use cases

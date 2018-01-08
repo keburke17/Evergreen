@@ -9,7 +9,7 @@ Scope
 
 Use cases
 * Student search: keyword, topic, pathway, related, local
-* Student Pathway search: current, topic
+* Student Pathway search: current, topic/industry, education level
 
 Project breakdown
 * Views (workflows)
@@ -35,6 +35,7 @@ Controller
   * Course.search{ Course.evgSearch, Course.apiSearch}
   * Course.grade
   * Course.
+  * Pathway
 
 
 Sample datasets
@@ -68,4 +69,4 @@ After the MVP
 API searches
 * Only for 'course' search to begin with
 ** Must list on Evergreen to be included in pathways? Or eventual inclusion?
-* Use https://api-explorer.khanacademy.org/group/api/v1/topic ? 
+* Use https://api-explorer.khanacademy.org/group/api/v1/topic ?
